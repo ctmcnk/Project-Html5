@@ -1,0 +1,22 @@
+.top-area {
+    background-color: rgb(41, 41, 41);
+  }
+  .menu-item {
+    color: white;
+    display: inline-block;
+    padding: 16px;
+    text-decoration: none;
+  }
+  .section {
+    background-color: rgb(130, 224, 170 );
+     padding: 6px;
+     margin-bottom: 10px;
+  }
+  .bottom-area {
+    background-color: rgb(214, 214, 214);
+    padding: 5px;
+    text-align: center;
+  }
+  body{
+    font-family: 'Kanit', sans-serif;
+  }
